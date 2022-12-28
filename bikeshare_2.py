@@ -249,6 +249,8 @@ def display_raw_data(df):
 
     print("-" * 40)
 
+def print_error():
+    print("Error!")
 
 def main():
     while True:
