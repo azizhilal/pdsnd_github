@@ -12,6 +12,5 @@ Bikeshare project is about using data provided by Motivate for Bicycle-sharing s
 ### Files used
 bikeshare.py, chicago.csv, washington.csv, new_york_city.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+ 
