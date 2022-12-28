@@ -42,15 +42,15 @@ def check_user_input(inp, type):
             else:
                 if type == 1:
                     print(
-                        "Error, your city must be in: chicago new york city or washington"
+                        "Your city must be in: chicago new york city or washington"
                     )
                 if type == 2:
                     print(
-                        "Error, your month must be in: january, february, march, april, may, june or all"
+                        "Your month must be in: january, february, march, april, may, june or all"
                     )
                 if type == 3:
                     print(
-                        "Error, your day must be in: sunday, ... friday, saturday or all"
+                        "Your day must be in: sunday, ... friday, saturday or all"
                     )
         except ValueError:
             print("Error, wrong input!")
