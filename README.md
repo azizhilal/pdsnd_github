@@ -10,7 +10,7 @@ Bikeshare
 Bikeshare project is about using data provided by Motivate for Bicycle-sharing systems that allow users to rent bicycles on a very short-term basis for a price. We compare the system usage between three large cities: Chicago, New York City, and Washington, DC. Using python (pandas, numpy)
 
 ### Files used
-Include the files used
+bikeshare.py, chicago.csv, washington.csv, new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
