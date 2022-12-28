@@ -252,6 +252,10 @@ def display_raw_data(df):
 def print_error():
     print("Error!")
 
+def print_name():
+    input = input("Enter your name: ")
+    print(input)
+
 def main():
     while True:
         city, month, day = get_filters()
